@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@import url("https://fonts.googleapis.com/css2?family=Averia+Serif+Libre&display=swap");
+
+
+.font-averia {
+  font-family: var(--font-averia), serif;
+}
+
+.font-bad-script {
+  font-family: var(--font-bad-script), cursive;
+}
